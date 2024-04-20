@@ -1,0 +1,5 @@
+Possible Deployment Server to use:
+Appliku *
+Vercel
+AWS
+DigitalOceaon
